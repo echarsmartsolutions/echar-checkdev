@@ -1,0 +1,40 @@
+{
+    "name" : "device-monitor",
+    "node-red" : {
+        "nodes": {
+            "device-monitor": "device-monitor.js"
+        }
+    },
+      "_from": "device-monitor",
+      "_inBundle": false,
+      "_integrity": "",
+      "_phantomChildren": {},
+      "_requested": {
+        "type": "tag",
+        "registry": true,
+        "raw": "device-monitor",
+        "name": "device-monitor",
+        "escapedName": "device-monitor",
+        "rawSpec": "",
+        "saveSpec": null,
+        "fetchSpec": "latest"
+      },
+      "_requiredBy": [
+        "#USER",
+        "/"
+      ],
+      "_shasum": "",
+      "_spec": "device-monitor",
+      "author": "Administrative <administrative@echar.com.br>",
+      "bundleDependencies": false,
+      "deprecated": false,
+      "description": "A Node-RED Device Monitor fee node to interact with UC20 / M3000 / M4000 for network device monitoring",
+      "keywords": [],
+      "license": "CC0 1.0 Universal",
+      "main": "device-monitor.js",
+      "version": "1.1.7",
+      "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+      }
+  
+    }
