@@ -1,9 +1,9 @@
 {
-    "Echar-Check": {
+    "echar-check": {
         "ping": "check",
         "label": {
             "target": "Target",
-            "ping": "check (S)",
+            "ping": "Check (S)",
             "mode": "Mode",
             "hash": "Hash",
             "key": "Hey",
