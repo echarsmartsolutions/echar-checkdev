@@ -1,0 +1,23 @@
+{
+    "device-monitor": {
+        "ping": "monitor",
+        "label": {
+            "target": "Target",
+            "ping": "Monitor (S)",
+            "mode": "Mode",
+            "hash": "Hash",
+            "key": "Hey",
+            "mode_option": {
+                "timed": "Timed",
+                "triggered": "Triggered"
+            },
+            "protocol": "Protocol",
+            "protocol_option": {
+                "auto": "Automatic",
+                "ipv4": "IPv4",
+                "ipv6": "IPv6"
+            },
+            "tip": "Important Note: Leave Target fields blank to allow hosts set dynamically via msg.payload."
+        }
+    }
+}
