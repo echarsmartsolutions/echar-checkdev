@@ -1,9 +1,9 @@
 {
-    "device-monitor": {
-        "ping": "monitor",
+    "Echar-Check": {
+        "ping": "check",
         "label": {
             "target": "Target",
-            "ping": "Monitor (S)",
+            "ping": "check (S)",
             "mode": "Mode",
             "hash": "Hash",
             "key": "Hey",
