@@ -1,20 +1,20 @@
 {
-    "name" : "Echar-Check",
+    "name" : "echar-check",
     "node-red" : {
         "nodes": {
             "device-monitor": "echar-check.js"
         }
     },
-      "_from": "Echar-Check",
+      "_from": "echar-check",
       "_inBundle": false,
       "_integrity": "",
       "_phantomChildren": {},
       "_requested": {
         "type": "tag",
         "registry": true,
-        "raw": "Echar-Check",
-        "name": "Echar-Check",
-        "escapedName": "Echar-Check",
+        "raw": "echar-check",
+        "name": "echar-check",
+        "escapedName": "echar-check",
         "rawSpec": "",
         "saveSpec": null,
         "fetchSpec": "latest"
@@ -24,7 +24,7 @@
         "/"
       ],
       "_shasum": "",
-      "_spec": "Echar-Check",
+      "_spec": "echar-check",
       "author": "Administrative <administrative@echar.com.br>",
       "bundleDependencies": false,
       "deprecated": false,
