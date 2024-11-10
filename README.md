@@ -14,10 +14,10 @@ This checktool will pool by IP or his Network name and returns the trip time in 
     <dl class="message-properties">
         <dd>If you don't have it, please send a Telegram message to
         <b><code>@echarcheck2DerBot</code></b> with detail information:<br>
-        <ul><li>Your information </li><li>UC20 / M3000 / M4000 Serial number.</li></ul>
+        <ul><li>Your information </li><li>UC20 / M3000 / M4000 frontal and side picture.</li></ul>
         These informations are needed to we generate the proper Hash and Authorization Key!!</dd>
     </dl>
-    <dt>Active your check node, online with Internet on port X1</dt>
+    <dt>Active your check node online with Internet on port X1</dt>
     <dd>Set as triggered option, send a payload <pre>[{"host":"@echarcheck2DerBot","name":"Request"}]</pre>
         to the node, to complete the request, once you recieve the Telegram message in return, please fulfilled both values, with they inserted, you can activate the check node!!<br>
     if you have nany trouble, send email to <code>atendimento@echar.com.br</code></dd>
