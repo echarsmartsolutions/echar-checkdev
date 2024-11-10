@@ -1,5 +1,5 @@
-# device-manager
-checks a device by IP or his Network name and returns the trip time in miliseconds as directly configured or by automated via <code>msg.payload</code> input command. It can be used as a triggered or timed configuration!
+# Echar-Check
+This hecktool will pool by IP or his Network name and returns the trip time in miliseconds as directly configured or by automated via <code>msg.payload</code> input command. It can be used as a triggered or timed configuration!
 <dl class="message-properties">
         <dt>To a better result <span class="property-type">Best Practice</span></dt>
         <dd>Regarding network issues and traffic protections</dd>
@@ -13,13 +13,13 @@ checks a device by IP or his Network name and returns the trip time in milisecon
     <dd>Key and Hash are needed to activate the communication process</dd>
     <dl class="message-properties">
         <dd>If you don't have it, please send a Telegram message to
-        <b><code>@DeviceMonitor2DerBot</code></b> with detail information:<br>
+        <b><code>@echarcheck2DerBot</code></b> with detail information:<br>
         <ul><li>Your information </li><li>UC20 / M3000 / M4000 Serial number.</li></ul>
         These informations are needed to we generate the proper Hash and Authorization Key!!</dd>
     </dl>
-    <dt>Active your Device Online with Internet on port X1</dt>
-    <dd>Set as triggered option, send a payload <pre>[{"host":"@DeviceMonitor2DerBot","name":"Request"}]</pre>
-        to the node, to complete the request, once you recieve the Telegram message in return, please fulfilled both values, with they inserted, you can activate the device monitor node!!<br>
+    <dt>Active your check node, online with Internet on port X1</dt>
+    <dd>Set as triggered option, send a payload <pre>[{"host":"@echarcheck2DerBot","name":"Request"}]</pre>
+        to the node, to complete the request, once you recieve the Telegram message in return, please fulfilled both values, with they inserted, you can activate the check node!!<br>
     if you have nany trouble, send email to <code>atendimento@echar.com.br</code></dd>
     <br>
     <p><b>The Pair Hash & Key will be the same to all used nodes</b></p>
