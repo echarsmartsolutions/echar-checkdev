@@ -2,7 +2,7 @@
     "name" : "echar-check",
     "node-red" : {
         "nodes": {
-            "device-monitor": "echar-check.js"
+            "echar-check": "echar-check.js"
         }
     },
       "_from": "echar-check",
