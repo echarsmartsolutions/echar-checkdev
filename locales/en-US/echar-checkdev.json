@@ -1,0 +1,23 @@
+{
+    "echar-checkdev": {
+        "ping": "check",
+        "label": {
+            "target": "Target",
+            "ping": "Check (S)",
+            "mode": "Mode",
+            "hash": "Hash",
+            "key": "Hey",
+            "mode_option": {
+                "timed": "Timed",
+                "triggered": "Triggered"
+            },
+            "protocol": "Protocol",
+            "protocol_option": {
+                "auto": "Automatic",
+                "ipv4": "IPv4",
+                "ipv6": "IPv6"
+            },
+            "tip": "Important Note: Leave Target fields blank to allow hosts set dynamically via msg.payload."
+        }
+    }
+}
