@@ -1,4 +1,4 @@
-# Echar-Check
+# Echar-CheckDev
 This checktool will pool by IP or his Network name and returns the trip time in miliseconds as directly configured or by automated via <code>msg.payload</code> input command. It can be used as a triggered or timed configuration!
 <dl class="message-properties">
         <dt>To a better result <span class="property-type">Best Practice</span></dt>
