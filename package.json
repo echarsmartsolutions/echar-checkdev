@@ -1,0 +1,48 @@
+{
+  "name" : "echar-checkdev",
+  "node-red" : {
+      "nodes": {
+          "echar-checkdev": "echar-checkdev.js"
+      }
+  },
+    "_from": "echar-checkdev",
+    "_inBundle": false,
+    "_integrity": "",
+    "_phantomChildren": {},
+    "_requested": {
+      "type": "tag",
+      "registry": true,
+      "raw": "echar-checkdev",
+      "name": "echar-checkdev",
+      "escapedName": "echar-checkdev",
+      "rawSpec": "",
+      "saveSpec": null,
+      "fetchSpec": "latest"
+    },
+    "_requiredBy": [
+      "#USER",
+      "/"
+    ],
+    "_shasum": "",
+    "_spec": "echar-checkdev",
+    "author": "Administrative <administrative@echar.com.br>",
+    "bundleDependencies": false,
+    "deprecated": false,
+    "description": "A Node-RED check tool to interact with UC20 / M3000 / M4000 for network device monitoring",
+"keywords": ["node-red","weidmueller","UC20","weidmuller","echar"],
+"license": "CC0-1.0",
+    "main": "echar-checkdev.js",
+    "version": "1.1.8",
+"scripts": {
+  "test": "echo \"Error: no test specified\" && exit 1"
+},
+"repository": {
+  "type": "git",
+  "url": "git+https://github.com/echarsmartsolutions/echar-checkdev.git"
+},
+"bugs": {
+  "url": "https://github.com/echarsmartsolutions/echar-checkdev/issues"
+},
+"homepage": "https://github.com/echarsmartsolutions/echar-checkdev#readme"
+
+  }
