@@ -32,7 +32,7 @@
 "keywords": ["node-red","weidmueller","UC20","weidmuller","echar"],
 "license": "CC0-1.0",
     "main": "echar-checkdev.js",
-    "version": "1.1.8",
+    "version": "1.1.9",
 "scripts": {
   "test": "echo \"Error: no test specified\" && exit 1"
 },
