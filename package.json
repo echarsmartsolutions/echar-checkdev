@@ -32,7 +32,7 @@
 "keywords": ["node-red","weidmueller","UC20","weidmuller","echar"],
 "license": "AGPL-3.0",
     "main": "echar-checkdev.js",
-    "version": "1.2.0",
+    "version": "1.2.1",
 "scripts": {
   "test": "echo \"Error: no test specified\" && exit 1"
 },
