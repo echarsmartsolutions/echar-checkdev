@@ -3,9 +3,9 @@ This checktool will pool by IP or his Network name and returns the trip time in 
 <dl class="message-properties">
         <dt>To a better result <span class="property-type">Best Practice</span></dt>
         <dd>Regarding network issues and traffic protections</dd>
-        <dd style="color: darkred;">We will delay 100ms from each host to monitor</dd>
+        <dd style="color: darkred;">We will delay 500ms from each host to monitor</dd>
         <dd>this will help to keep in a safe way and not be kicked from the network trafic, caused of fully load the network bandwidth</dd>
-        <dd>Ideal work scanning cyclically time window</dd><dd>consider to use <b><i>injection each 2seconds or more</i></b></dd>
+        <dd>Ideal work scanning cyclically time window</dd><dd>consider to use <b><i>injection each 10seconds or more</i></b></dd>
         <dd>Ideal host quantities per cycle </dd><dd>keep <b><i>maximum 20 hosts</i></b></dd>
     </dl>
      <dt> <h3>Hash and Key </h3> <span class="property-type">Parameters</span></dt>
